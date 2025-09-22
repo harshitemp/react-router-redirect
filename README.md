@@ -3,9 +3,10 @@
 ## Screenshots
 
 Here’s a preview of the app:
+![App Screenshot](public/ss1.png)
+
 ![App Screenshot](public/ss2.png)
 
-![App Screenshot](public/ss1.png)
 
 ## 🎯 Objective
 To implement **redirecting users** in React Router after a successful login.
